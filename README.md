@@ -32,12 +32,13 @@ I have referred to the following repo:
 @ARTICLE{10962227,
   author={Kim, Minwoo and Choi, Youngchol and Kim, Yeongjun and Seo, Eojin and Yang, Hyun Jong},
   journal={IEEE Communications Letters}, 
-  title={Joint Spectrum Sensing and Resource Allocation for OFDMA-based Underwater Acoustic Communications}, 
+  title={Joint Spectrum Sensing and Resource Allocation for OFDMA-Based Underwater Acoustic Communications}, 
   year={2025},
-  volume={},
-  number={},
-  pages={1-1},
+  volume={29},
+  number={6},
+  pages={1300-1304},
   keywords={Sensors;OFDM;Interference;Symbols;Signal to noise ratio;Resource management;Vectors;Deep reinforcement learning;Reliability;Underwater acoustics;Spectrum sensing;underwater acoustic communication;deep reinforcement learning;OFDMA},
   doi={10.1109/LCOMM.2025.3559513}}
+
 
 ```
