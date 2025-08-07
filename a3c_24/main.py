@@ -1,28 +1,3 @@
-"""
-Ideas:
-- Use pre-trained model from 23'.
-- Better way to utilize MATLAB by changing target index.
-- Give label data to model?
-
-TODO:
-TODOs before running:
-
-Problems:
-- Agent stuck at certain action.
-- Unstable success rates.
-- Average test episode length too short (0.03~0.1).
-
-1st priority:
-- Finetune: num_processes, num_windows, lamda, reward_weight, rate_weight, rb_weight, value_loss_coef, entropy_coef,
-num_lstm_layers, gamma, hidden_size.
-
-2nd priority:
-- What is deque(maxlen=100) for?
-
-Optional:
-- Try A2C, PPO?
-(https://github.com/ikostrikov/pytorch-a2c-ppo-acktr-gail)
-"""
 import os
 import datetime
 import itertools
